@@ -1,5 +1,5 @@
 # Images to gif
-Save all of the images in a directory into a GIF file. 
+Python script to save all of the images in a directory into a GIF file. 
 
 Example usage: `python3 images_to_gif.py <images_directory> <output_gif_file> -d='<duration_seconds>'`
 
